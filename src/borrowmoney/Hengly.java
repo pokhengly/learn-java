@@ -4,7 +4,7 @@ public class Hengly {
 
     Lyheang lyheang = new Lyheang();
 
-    public Integer getMoney() {
+    public String getMoney() {
         return lyheang.getMoney();
     }
 }

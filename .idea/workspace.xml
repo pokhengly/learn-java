@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04d7159-08ac-48a1-951d-c47f111c1657" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/borrowmoney/AhHun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/borrowmoney/Chhay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/borrowmoney/Hengly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/borrowmoney/Lyheang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/borrowmoney/Vireak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springboot/AMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springboot/BController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springboot/CService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springboot/DRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springboot/EDatabaseFake.java" afterDir="false" />
-    </list>
+    <list default="true" id="b04d7159-08ac-48a1-951d-c47f111c1657" name="Changes" comment="add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,11 +88,24 @@
       <option name="presentableId" value="Default" />
       <updated>1702565910907</updated>
       <workItem from="1702565911981" duration="6424000" />
-      <workItem from="1702574855471" duration="712000" />
+      <workItem from="1702574855471" duration="1596000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1702577194195</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702577194195</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
